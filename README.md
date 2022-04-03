@@ -1,0 +1,1 @@
+startup in collaboration with 3 different countries (Uk,Austrailia,India) revolving around the concept of online medical records of a person which are connected with biometrics and medical cards .The project keep in check all the privacy issues with the HIPPA guidelines 
